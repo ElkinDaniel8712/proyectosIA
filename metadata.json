@@ -1,0 +1,6 @@
+{
+  "name": "GTD - Priorizador de Proyectos de IA",
+  "description": "Plataforma corporativa de GTD para recopilar, evaluar y priorizar proyectos de automatización e inteligencia artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
